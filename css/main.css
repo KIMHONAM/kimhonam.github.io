@@ -931,9 +931,11 @@ ul#category li a:hover {
 		.employment:before, .education:before{background:none;}
 		.dtIco {margin-left:10px;}
 		.det{width:300px;margin-left:0;margin-top: 30px;}
+		.employment .det{width:300px;margin-left:0;margin-top: 30px;}
+		.Anothereducation .det{width:300px;margin-left:0;margin-top: 30px;}
 		.det:before {
 		    left: 10px;
-		    top: -17px;
+		    top: -17px;   
 		    ttransform: rotate(0deg);
 			-moz-transform:rotate(0deg);
 			-webkit-transform:rotate(0deg);
