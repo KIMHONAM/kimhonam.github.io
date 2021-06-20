@@ -355,7 +355,7 @@ nav#mainNav a.active:after{
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#efefef', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
 	
     bottom: 0;
-    content: "";
+    /*content: "";*/
     left: 4%;
     margin-left: -5px;
     position: absolute;
@@ -597,6 +597,7 @@ ul#category li a:hover {
 	width: 320px !important;
 	margin-left:0 !important;
 	margin-right:0 !important;
+	margin-bottom:10px !important;
 
 }
 
@@ -954,7 +955,7 @@ ul#category li a:hover {
 		}
 		
 		ul#category li{display:block;}
-		.item{width: 300px !important;}
+		.item{width: 300px !important; margin-bottom:10px !important;}
 		
 		
 		.cForm form{width:300px;}
