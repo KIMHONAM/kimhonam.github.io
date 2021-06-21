@@ -201,7 +201,7 @@ nav#mainNav a.active:after{
 
 
 .imgAbout {
-	background-image: url(../images/about.jpg) ;
+	/*background-image: url(../images/about.jpg) ;*/
     background-position: 50% 20%;
     background-size: cover;
     display: block;
